@@ -30,7 +30,7 @@
 // Thumb buttons (used for BT combos)
 #define THUMB_1 18
 #define THUMB_2 19
-#define THUMB_3 20
+#define THUMB_3 20 
 
 // Include main ardux.io keymap
 #include "../../../ardux.dtsi"
